@@ -1,0 +1,11 @@
+---
+title: 'ESM 244 Lab Week 8: Clustering (k-means and hierarchical)'
+author: "Katelin Seeto"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
